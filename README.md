@@ -13,7 +13,7 @@ First to the district summary, there was not a drastic change to the values, the
 The previous district summary(shown below).
 ![old district](https://user-images.githubusercontent.com/106573185/175230517-0d5085c5-aa3f-4c67-a20e-c0a47a0ffe6f.PNG)
 
-The school summary showed similar results.
+The school summary showed similar results, however an even smaller percentage change.
 New Analysis
 ![summary new](https://user-images.githubusercontent.com/106573185/175232089-a67dbf73-d54a-4766-a7b4-759bb3002f2e.PNG)
 Previous

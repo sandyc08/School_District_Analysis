@@ -15,7 +15,7 @@ The previous district summary(shown below).
 
 The school summary showed similar results, however an even smaller percentage change.
 New Analysis
-![header](https://user-images.githubusercontent.com/106573185/175233053-9cda64d5-b8ed-4279-8f5e-788c26cd6a7e.PNG)
+             ![header](https://user-images.githubusercontent.com/106573185/175233053-9cda64d5-b8ed-4279-8f5e-788c26cd6a7e.PNG)
 ![summary new](https://user-images.githubusercontent.com/106573185/175232089-a67dbf73-d54a-4766-a7b4-759bb3002f2e.PNG)
 Previous
 ![summary old](https://user-images.githubusercontent.com/106573185/175232123-9d871c0c-b54a-4547-ab26-a42dca5363f2.PNG)

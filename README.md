@@ -13,8 +13,12 @@ First to the district summary, there was not a drastic change to the values, the
 The previous district summary(shown below).
 ![old district](https://user-images.githubusercontent.com/106573185/175230517-0d5085c5-aa3f-4c67-a20e-c0a47a0ffe6f.PNG)
 
-The school summary showed similar results, however an even smaller percentage change.
+The school summary showed similar results, with an even smaller margin on the percentage change.
 New Analysis![header](https://user-images.githubusercontent.com/106573185/175233053-9cda64d5-b8ed-4279-8f5e-788c26cd6a7e.PNG)
 ![summary new](https://user-images.githubusercontent.com/106573185/175232089-a67dbf73-d54a-4766-a7b4-759bb3002f2e.PNG)
 Previous
 ![summary old](https://user-images.githubusercontent.com/106573185/175232123-9d871c0c-b54a-4547-ab26-a42dca5363f2.PNG)
+All  values dropped except for the reading score which increased slightly.
+
+Summary
+Dropping the scores did not greatly improve the schools scores nor did it drop them substantially. The changes were quite minor. Since one of the scores increased with the removal of the possibly flawed data, one could even say that maybe the data was not altered.

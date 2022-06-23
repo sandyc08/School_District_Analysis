@@ -7,4 +7,4 @@ Pycity School District has asked for another analysis of the schools and student
 Results
 
 After replacing the ninth grade students scores with a null value, I found these changes:
-https://github.com/sandyc08/School_District_Analysis/issues/1#issue-1281874719
+![new district](https://user-images.githubusercontent.com/106573185/175230300-11435217-b1a1-4f68-adc4-937fb2c6fd22.PNG)

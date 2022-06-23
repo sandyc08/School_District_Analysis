@@ -8,3 +8,6 @@ Results
 
 After replacing the ninth grade students scores with a null value, I found these changes:
 ![new district](https://user-images.githubusercontent.com/106573185/175230300-11435217-b1a1-4f68-adc4-937fb2c6fd22.PNG)
+
+
+![old district](https://user-images.githubusercontent.com/106573185/175230517-0d5085c5-aa3f-4c67-a20e-c0a47a0ffe6f.PNG)
